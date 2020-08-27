@@ -1,10 +1,27 @@
-body{
-    background-color: peru;
 
+body{
+    background-color:#ecf0f1;
+}
+
+.btn{
+    cursor: pointer;
+}
+
+body{
+color:#34495e;
 
 }
 
-h1{
-    color:white;
-    
+
+.clicked{
+    color: #7f8c8d;
+}
+
+.form
+.greetings{
+    display: none;
+}
+
+.showing{
+    display:block;
 }
